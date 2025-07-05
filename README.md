@@ -95,7 +95,6 @@ This is for the devs, designers, meme gods, or video creators who want to blow u
 ## 🔗 Referral System
 
 - **$1 per referral**
-- **Payout starts after 10 referrals**
 - **Track your invites** — leaderboard coming soon
 
 ## 📋 How to Contribute

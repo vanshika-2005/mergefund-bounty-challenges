@@ -94,7 +94,7 @@ This is for the devs, designers, meme gods, or video creators who want to blow u
 
 ## 🔗 Referral System
 
-- **$1 per referral**
+- **COMING SOON 
 - **Track your invites** — leaderboard coming soon
 
 ## 📋 How to Contribute
@@ -121,9 +121,6 @@ This is for the devs, designers, meme gods, or video creators who want to blow u
 - **Winners Announced:** TBD
 
 ## 🤝 Community
-
-- Join our [Discord](https://discord.gg/mergefund)
-- Follow us on [Twitter](https://twitter.com/mergefund)
 - Check out our [website](https://mergefund.org)
 
 ## 📞 Support

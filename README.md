@@ -8,7 +8,7 @@ MergeFund is a platform that connects developers with meaningful open source pro
 
 ## 🏆 Challenge Overview
 
-We're launching with **5 core challenges** plus a **viral challenge** to kickstart our community. Each challenge is designed to be beginner-friendly while still being engaging for experienced developers.
+We're launching with **5 core challenges** plus a **viral challenge** to kickstart our community. Each challenge is designed to be beginner-friendly while still being engaging for experienced developers. FIRST 40 VALID PRs WILL ALSO BE GETTING 5$ each 
 
 ## 🧪 The Challenges
 

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MergeFund Memory Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header with progressive message reveal -->
+        <header class="header">
+    <h1 class="game-title">
+        <span class="title-icon">🎮</span>
+        <span class="title-text">FLIP & REVEAL</span>
+        <span class="title-subtitle">The Ultimate Memory Quest</span>
+    </h1>
+    <div class="message-container">
+        <div id="revealed-message" class="revealed-message"></div>
+        <div class="progress-bar">
+            <div id="progress" class="progress"></div>
+        </div>
+    </div>
+</header>
+
+        <!-- Game Stats -->
+        <div class="stats">
+    <div class="stat">
+        <span class="stat-label">Moves:</span>
+        <span id="moves">0</span>
+    </div>
+    <div class="stat">
+        <span class="stat-label">Time:</span>
+        <span id="time">00:00</span>
+    </div>
+</div>
+
+        <!-- Game Board -->
+        <div class="game-board" id="gameBoard">
+        </div>
+
+        <!-- Reset Button -->
+        <button id="resetBtn" class="reset-btn">🔄 New Game</button>
+
+        <!-- Victory Modal -->
+        <div id="victoryModal" class="modal hidden">
+    <div class="modal-content">
+        <div class="celebration-header">
+            <div class="celebration">🎉</div>
+            <div class="victory-sparkles">✨🌟✨</div>
+        </div>
+        <h2 class="victory-title">MISSION ACCOMPLISHED!</h2>
+        <div class="final-message" id="finalMessage"></div>
+        <div class="victory-stats" id="victoryStats"></div>
+        <button id="playAgainBtn" class="play-again-btn">🚀 Play Again</button>
+    </div>
+</div>
+
+        <!-- Confetti Container -->
+        <div id="confetti" class="confetti-container"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
